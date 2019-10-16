@@ -1,7 +1,10 @@
 # swan
 #learn swan from compile
 
-#1.[官网下载压缩包](http://swanmodel.sourceforge.net/)（这个是需要编译的，windows下可以直接下载exe），上传到服务器，解压
+#1.downlosd and compile 安装和编译
+
+
+[官网下载压缩包](http://swanmodel.sourceforge.net/)（这个是需要编译的，windows下可以直接下载exe），上传到服务器，解压
 
 
 ![ad](https://github.com/abby-1225/swan/blob/master/images/download.png)

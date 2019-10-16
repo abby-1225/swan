@@ -1,7 +1,7 @@
 # swan
 #learn swan from compile
 
-#1.官网下载（需要编译的，windows可以直接用exe），上传到服务器，解压
+#1.官网下载压缩包（这个是需要编译的，windows下可以直接下载exe），上传到服务器，解压
 或者直接linux下：
 
 wget http://swanmodel.sourceforge.net/

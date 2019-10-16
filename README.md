@@ -5,8 +5,11 @@
 或者直接linux下：
 
 wget http://swanmodel.sourceforge.net/
+
 tar -xzvf swan4131.tar.gz
+
 cd  swan4131
+
 make config
 
 make mpi  #需要提前装mpich，详情见wrf里的安装，若无需串行，则改为（make ser）
